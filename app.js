@@ -1,4 +1,4 @@
-console.log('Read file');
+console.log("readFile");
 
 const fs = require('fs');
 fs.readFile('file.txt', 'utf8', function (err, data) {
