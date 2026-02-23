@@ -76,3 +76,9 @@ async function myFunction() {
  }
 }
 myFunction();
+
+console.log("Greeting from Sachintha");
+
+for (let i = 0; i < 5; i++) {
+ console.log("Hello, Kaweesha!");
+}
